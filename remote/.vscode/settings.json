@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "Makefile.proj": "makefile",
+        "crypto.h": "c",
+        "nrf_ecb.h": "c",
+        "soc_nrf_common.h": "c",
+        "soc.h": "c",
+        "nrfx.h": "c",
+        "nrfx_config.h": "c",
+        "nrfx_common.h": "c",
+        "sd.h": "c",
+        "nrfx_qdec.h": "c",
+        "ipm.h": "c",
+        "ecb_crypto.h": "c",
+        "radio.h": "c",
+        "compact_fifo.h": "c",
+        "ranges": "c",
+        "string_view": "c",
+        "array": "c",
+        "device.h": "c",
+        "compact_fifo_mutex.h": "c",
+        "nrfx_dppi.h": "c"
+    }
+}
